@@ -1,0 +1,12 @@
+== MÉTRICAS DEL MODELO ==
+
+              precision    recall  f1-score   support
+
+     Desecho     0.9989    0.9706    0.9845       951
+        Sano     0.9757    0.9991    0.9873      1125
+
+    accuracy                         0.9860      2076
+   macro avg     0.9873    0.9848    0.9859      2076
+weighted avg     0.9863    0.9860    0.9860      2076
+
+🕒 Tiempo total: 14.62 s
